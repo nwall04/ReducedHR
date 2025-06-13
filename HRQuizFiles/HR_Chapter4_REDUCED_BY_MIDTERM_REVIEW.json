@@ -1,0 +1,356 @@
+[
+  {
+    "question": "What is a job specification?",
+    "choices": [
+      "a statement of the knowledge, skills, and abilities required to perform the job",
+      "a statement of the tasks, duties, and responsibilities associated with the job",
+      "a group of related activities and duties",
+      "the different duties and responsibilities performed by one employee"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of a job specification?",
+    "choices": [
+      "To be a grocery store cashier, you need to know how to work a cash register, know the rules of the store, and know basic math.",
+      "To be a grocery store cashier, you have to deal with the public and be able to stand on your feet for long hours.",
+      "A grocery store cashier assists customers in paying for their grocery items and answering questions about products.",
+      "A grocery store cashier is responsible for making sure items are bagged or tagged, and that all customers pay for their items."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Why is job analysis considered the cornerstone of HRM?",
+    "choices": [
+      "because the information collected serves many HRM functions",
+      "because it is done in a scientifically sound and valid way",
+      "because the information comes from job incumbents who know the job the best",
+      "because it is required by law"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the ultimate purpose of job analysis?",
+    "choices": [
+      "to make sure that societal decisions are fair",
+      "to increase performance and productivity of the organization",
+      "to have a sense of what employees should be or are doing in their jobs",
+      "to organize work in a meaningful way"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is most correct when it comes to job analysis?",
+    "choices": [
+      "Artificial inflation of job duties must always be double-checked against the NOC.",
+      "A job analyst must weigh information obtained from the NOC above incumbent data.",
+      "A job analyst must weigh manager information more heavily than job incumbent data.",
+      "More information about the job is always better."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT a method to conduct job analysis?",
+    "choices": [
+      "task inventory development",
+      "the critical incident method",
+      "the position analysis questionnaire",
+      "divisional job analysis"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Sally is interviewing an employee, asking him to describe his job, how it is performed, what work is done, and what tools and equipment are used. What style of job analysis is Sally performing?",
+    "choices": [
+      "the critical incidents style of job analysis",
+      "the task analysis style of job analysis",
+      "the PAQ style of job analysis",
+      "the occupation classification style of job analysis"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following job analysis methods utilize \u201cinterviews\u201d?",
+    "choices": [
+      "critical incidents, PAQ, and competency-based analysis",
+      "critical incidents and competency based analysis",
+      "task analysis and competency-based analysis",
+      "PAQ, task analysis, and critical incidents"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the most important difference between competency-based analysis and all other forms of job analysis discussed in the textbook?",
+    "choices": [
+      "Competency-based analysis is better at keeping pace with the quickly changing nature of work.",
+      "Competency-based analysis relies solely on information obtained from job incumbents.",
+      "Competency-based analysis focuses on how the job is currently done.",
+      "Competency-based analysis requires a very high degree of training on the part of the analyst."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What can result from generically written job descriptions?",
+    "choices": [
+      "restructuring",
+      "openness to change",
+      "role ambiguity",
+      "role precision"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the main difference between job analysis and job design?",
+    "choices": [
+      "Job analysis looks at jobs as they currently are\u037e job design is about reorganizing work.",
+      "Job analysis is required to ensure that HR functions are based on sound and valid data\u037e job design is focused on compensation and the financial worth of the work.",
+      "Job analysis is a process\u037e job design is a function.",
+      "Job analysis is the study of jobs as currently performed\u037e job design is concerned with changing job structures to improve efficiency."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In which situation would a job design be recommended?",
+    "choices": [
+      "New technology has drastically changed the way that work is done in a manufacturing plant shop floor and employees are finding there is a lot more spare time.",
+      "Due to a recent change in upper management and benefit policies, several hundred highly skilled employees have recently left the organization and moved to a competitor.",
+      "The culture of the organization is deemed by an external consultant to be \u201cstagnant\u201d and in need of a change.",
+      "Members of the organization are trying to form a union."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Behavioural-based job design studies focus on two key simultaneous outcomes. What are these?",
+    "choices": [
+      "organizational efficiency and employee job satisfaction",
+      "organizational efficiency and effectiveness",
+      "organizational restructuring and job design",
+      "employee autonomy and job design"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A statement of the different duties, tasks, and responsibilities of a job is known as a job description. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job analysis is the process of obtaining information about jobs by determining what the duties, tasks, or activities of those jobs are. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Ultimately, the purpose of job analysis is to value a job and establish its pay rate. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Job analysis is now considered outdated because it can\u2019t keep up with the current state of change in today\u2019s fast- paced work world. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Job analysis is an important step toward ensuring an organization\u2019s HR practices are valid and job-related. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The critical incidents method of job analysis is based on interviewing the job incumbent/employee. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "There are many methods of job analysis and many different ways of compiling the data, but all of the methods rely on some form of employee/job incumbent interview. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Employee interviewing is the most accurate method of job analysis because the employee is least likely to exaggerate essential job functions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The competency-based approach to job analysis focuses on standard job duties, tasks, and the like. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Human resource information systems have limited potential to impact the job analysis process. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The standard format for job descriptions is contained in the Dictionary of Occupational Titles. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Relying on generic job descriptions tends to reduce role ambiguity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Most job descriptions include a job title, a job identification section, and a job duties section. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job specifications usually cover two areas: (1) the skill required to perform the job and (2) the level of autonomy inherent in the position. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A problem with job descriptions is that they tend to broaden the scope of activities performed by a jobholder. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When writing a job description, it is essential to use statements that are terse, direct, and simply worded. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job specifications describe the duties, tasks, and responsibilities performed on the job and therefore play a key role in performance appraisal. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Job design is concerned with changing, modifying, and enriching jobs in order to capture the talents of employees while improving performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job design should facilitate the achievement of organizational goals while recognizing the capabilities and needs of those who are to perform it. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job design considers organizational objectives, industrial engineering considerations, ergonomic concerns, and job descriptions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Job design is concerned with changing, modifying, and enriching jobs in order to capture the talents of employees while improving performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job enrichment is a way of increasing employee empowerment. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Job enrichment can improve employee performance in cases of dissatisfaction with pay and benefits. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Job enrichment incorporates the behavioural needs of employees into their jobs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The real advantage of job enrichment is that it applies to all employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Adding more meaningful tasks to an employee\u2019s job in an effort to make it more rewarding is an example of job enrichment. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Industrial engineering is a technique of job design that is concerned with efficiency and behavioural considerations of a job. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Adjustments in work schedules are considered to be a part of job analysis and job design. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "question": "Which of the following is a key basis for the use of biodata tests?",
+    "choices": [
+      "Family history is important to job success.",
+      "They are required by law.",
+      "Past behaviour is the best predictor of future behaviour.",
+      "There are no right or wrong answers."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following do personality tests measure?",
+    "choices": [
+      "disposition and temperament",
+      "likability and attitude to work",
+      "intelligence and knowledge",
+      "attitudes and behaviours"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The \u201cBig Five\u201d factors are related to what type of employment tests?",
+    "choices": [
+      "cognitive ability tests",
+      "general intelligence tests",
+      "personality tests",
+      "mental awareness tests"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why would an organization use an integrity test?",
+    "choices": [
+      "because even though such tests are not correlated with reduced disruptive behaviours, they have been correlated with reduced turnover",
+      "because such tests are designed to identify thieves",
+      "because these tests not only reduce theft, but also have been shown to have a relationship with performance on the job",
+      "because in using an integrity test, you can avoid the use of most other selection tests, since it has been shown that these are good stand-alone predictors"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In the \u201cBig Five\u201d personality tests, what is the dimension captured by the degree to which someone is dependable and organized, and perseveres?",
+    "choices": [
+      "conscientiousness",
+      "agreeableness",
+      "extroversion",
+      "dependability"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Validity tests related to such things as intelligence and anxiety typically asses which of the following?",
+    "choices": [
+      "criterion validity",
+      "content validity",
+      "concurrent validity",
+      "construct validity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Organization T uses a decision-making model in which an applicant is allowed to score poorly in one area of the selection tests, as long as he or she scores very high in another area. What is this type of decision-making model called?",
+    "choices": [
+      "a statistical model",
+      "a multiple hurdle model",
+      "a compensatory model",
+      "a multiple cutoff model"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What does a selection ratio of .9 mean?",
+    "choices": [
+      "It means 90 percent of the applicants applying to the position will be hired.",
+      "It means 10 percent of the applicants applying to the position will be hired.",
+      "It means 9 percent of the applicants applying to the position will be hired.",
+      "It means 1 percent of the applicants applying to the position will be hired."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Scenario 6.2 Computer Direct Inc. is a mid-sized technology firm that specializes in designing, manufacturing, and selling computers. The organization staff complement is very diverse, and most of the company\u2019s employees are in the development and design, sales, and marketing departments. Computer Direct has been using only one method to make recruitment decisions for all of its employees, from managerial to technical to clerical. Data is gathered on each candidate, and a committee assigns scores to candidates based on its understanding of the job. Candidates, however, are not given the opportunity to be tested and hired based on their respective scores. Essentially, decisions are made based on personal judgments. Refer to Scenario 6.2. Which approach best reflects how decisions about recruiting are made at Computer Direct? psychological approach clinical approach statistical approach behavioural approach",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Reliability refers to the extent to which two methods yield similar results, but not to the agreement between two or more raters. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Validity refers to what a selection procedure measures and how well it measures it. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Although widely used, employment interviews pose potential concerns about validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The situational interview is a variation of the unstructured interview. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A situational interview asks the applicant what he or she actually did in a given situation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Situational interviews ask applicants how they would respond, while behavioural description interviews ask applicants how they did respond True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Behavioural description interviews appear to be more effective than situational interviews, especially for higher-level positions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "HRM specialists have found that panel interviews lead to higher reliability and faster decision times than one-to-one interviews. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Video interviews have the advantages of speed and cost-effectiveness. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Personality tests measure such things as agreeableness, extroversion, and openness to experience. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Conscientiousness refers to the degree to which someone is trusting, amiable, cooperative, and flexible. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Predictive validity is assessed when the test scores of job applicants are held against the performance data for existing employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In general, a criterion-related method of assessing selection test validity is preferred over other methods because it is based on empirical data. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Criterion-related validity is the extent to which a selection tool predicts or correlates with important elements of work behaviour. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Concurrent validity involves testing applicants and obtaining criterion data after they have been on the job for some indefinite period. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Predictive and concurrent validity are determined by comparing test scores with supervisor performance ratings. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "If a work sample test includes major job functions and predicts job success, it has content validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The closer the content of the selection instrument to actual work samples or behaviours, the higher the content validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Content validity is the most direct and least complicated type of validity to assess. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Asking an applicant for an accounting position to solve accounting problems similar to those encountered on the job is an example of construct validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Measuring construct validity requires linking a psychological test to job performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]

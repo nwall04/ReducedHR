@@ -1,0 +1,206 @@
+[
+  {
+    "question": "What is the first step in the strategic planning process?",
+    "choices": [
+      "putting together the human resource management team",
+      "executing the human resource plan",
+      "establishing the mission, vision, and values of the organization",
+      "aligning the human resource plan and the strategic plan"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "As part of its strategic planning process, TJX Corporation is involved in a systematic, regular monitoring of major external forces influencing the organization. What is this process called?",
+    "choices": [
+      "external forecasting",
+      "human resource planning",
+      "Markov analysis",
+      "environmental scanning"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "As part of the strategic planning process, XYZ Inc. recently examined the attitudes and activities of the company\u2019s workforce. What was XYZ doing?",
+    "choices": [
+      "an environmental scan",
+      "a cultural audit",
+      "a trend analysis",
+      "a demand forecast"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes forecasting human resources needs?",
+    "choices": [
+      "It is scientific and relatively error-free.",
+      "It is difficult and should only be done on rare occasions.",
+      "It should rely strictly on quantitative approaches, which utilize sophisticated analytical models.",
+      "It estimates the number and type of people that are needed to meet organizational objectives."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following should you take into account when forecasting demand?",
+    "choices": [
+      "absenteeism",
+      "turnover",
+      "business cycles",
+      "labour mobility"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Kappa Technology is a firm in the high-technology sector. It needs to hire individuals with very specific knowledge and abilities, and it needs to do so quickly. Which aspect of employee forecasting will be most important for this company?",
+    "choices": [
+      "skills inventories",
+      "staffing tables",
+      "Markov analysis",
+      "succession planning"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the difference between trend analysis and management forecasts?",
+    "choices": [
+      "Trend analysis is used to analyze the business environment and management forecasts predict labour needs.",
+      "Trend analysis uses organizational indexes and management forecasts utilize statistical techniques.",
+      "Trend analysis is quantitative and management forecasts are qualitative.",
+      "Trend analysis has proven success and management forecasts have major shortcomings."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the most important information obtained from a Markov analysis?",
+    "choices": [
+      "human capital readiness",
+      "what types of attitudes employees have",
+      "what positions are going to be coming open and will require a new hire",
+      "how many individuals are ready for promotion"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a qualitative approach to demand forecasting?",
+    "choices": [
+      "trend analysis",
+      "Delphi technique",
+      "soliciting expert opinion",
+      "management forecast"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an important use of the balanced scorecard?",
+    "choices": [
+      "to help balance internal and external fit",
+      "to help managers translate their firms\u2019 strategic goals into operational objectives",
+      "to help managers balance the costs and benefits of HR strategies",
+      "to help with the SWOY analysis"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Scenario 2.2 Avie Products Inc. is planning to add a third shift to its production schedule. It currently has 450 workers involved in all aspects of its fertilizer business, best done in Canada. A recent surge in demand from its global customers is driving the need for more workers\u037e however, Simi Meher, the CEO, is concerned that the surge may be temporary, especially in light of the recent economic downturns in the global environment where Avie does business. Refer to Scenario 2.2. Which approach could Avie use to forecast demand for its products? staffing tables Markov analysis skill inventories trend analysis",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "External supply of labour is central to strategic planning. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "There are two approaches to HR forecasting: quantitative and qualitative. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Trend analysis is a qualitative approach to labour demand forecasting. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Trend analysis relies on a single business factor. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Forecasting may be as informal as having one person familiar with the organization anticipate HR needs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Management forecasts are quantitative measurements of future employment needs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Delphi technique works best in organizations where dynamic technological changes affect staffing levels. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Staffing tables provide data on external labour supply sources. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Markov analysis is a systematic monitoring of the major external forces influencing an organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Markov analysis focuses on the number of employees in particular jobs and their skill levels, compensation, and job tenure. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Replacement charts are listings of current jobholders who are potential replacements if an opening occurs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Benchmarking is the process of comparing the organization\u2019s processes and practices with those of other companies. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]

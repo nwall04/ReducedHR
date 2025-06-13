@@ -1,0 +1,272 @@
+[
+  {
+    "question": "Which of the following is a characteristic of a tight labour market?",
+    "choices": [
+      "high unemployment",
+      "low unemployment",
+      "declining compensation rates",
+      "low productivity"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following groups is most likely to respond to advertisements placed through social media?",
+    "choices": [
+      "Generation X",
+      "Generation Y",
+      "retirees",
+      "baby boomers"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the most important disadvantage of using employee referrals for recruitment?",
+    "choices": [
+      "It makes human resource planning near impossible due to the unpredictable nature of the talent pool.",
+      "Training recruiters to recognize potential in candidates in this way is difficult and costly.",
+      "Discrimination may result because people tend to refer others from similar backgrounds.",
+      "It is likely that individuals will refer weak candidates in order to lessen internal competition for promotions."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an important limitation of using educational institutions for recruitment?",
+    "choices": [
+      "The education students receive is not relevant to the workplace.",
+      "Basing recruitment of candidates on grade transcripts is not a valid selection tool.",
+      "Recruitment is limited to sales and retail.",
+      "Candidates generally have limited full-time job experience."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organizational situation is most likely to benefit from using realistic job previews?",
+    "choices": [
+      "in the financial industry where there are few jobs but the training is arduous and jobs are not very lucrative despite the promise of wealth in the long run",
+      "in creative organizations, such as symphony orchestras, where the work is not well paid and the training is intense",
+      "in a high-tech organization where despite being in a very competitive industry engineers are allowed to explore their creative side and are motivated financially to suggest innovative products",
+      "in a meat-processing plant where the work is very messy, the smell is strong and unpleasant, and a lot of expensive training is needed to do the job well"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following best describes outplacement services?",
+    "choices": [
+      "They are useful methods of attracting individuals into a career.",
+      "They are designed to help terminated employees find a job elsewhere.",
+      "They are rarely given to executive employees.",
+      "They are vital parts of any career management system."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Hamid is a professional engineer. He is not permanently in a management role, but is paid at management rate, and can choose to take up management roles without sacrificing his engineering role. How would you describe his career path?",
+    "choices": [
+      "complex career path",
+      "boundaryless career path",
+      "dual career path",
+      "divergent career path"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "ABC Corporation identifies the top 10 of its junior engineers and allows them to select a top executive to work with on their career development, including goals, expectations, and standards. How would you describe the resulting relationship between the executive and the junior engineer?",
+    "choices": [
+      "formal mentoring",
+      "controlled development",
+      "dual career planning",
+      "career networking"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Luba is developing a mentoring program for her organization. She has put a great deal of effort into making sure that all prot\u00e9g\u00e9s are matched demographically with their mentor (gender, race, etc.), educating participants about facts such as the reciprocal nature of the relationship, and that the relationship can be used for personal and professional development. In her plans, which myth about mentors has Luba fallen victim to?",
+    "choices": [
+      "A mentor has to be the same gender and race as the prot\u00e9g\u00e9.",
+      "Mentoring should focus on the professional and not the personal.",
+      "Although mentoring can be reciprocal, that is just a by-product. The focus should be on the prot\u00e9g\u00e9.",
+      "Highly profiled people make the best mentors."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a factor included in a self-evaluation for successful career development?",
+    "choices": [
+      "your interests",
+      "academic achievement",
+      "academic aptitude",
+      "organizational opportunities for advancement"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Refer to Scenario 5.1. Adopting a realistic job preview at BI Inc. can lead to which of the following?",
+    "choices": [
+      "turnover of employees who are more driven by the money",
+      "better job satisfaction and lower turnover",
+      "inaccurately reflecting the culture for which the candidate is signing up",
+      "negative effect on the socialization process"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Human resources information systems can be used to predict the career paths of employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The most common method used by job searchers is responding to printed advertisements. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Skill inventories are an important tool for succession planning. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Advertisements can allow selectivity in attracting applicants. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The most commonly used search tactic for job seekers is Internet recruiting. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Nepotism is a problem with executive search firms. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Educational institutions are typically a source of young applicants with formal training but relatively little full-time work experience. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The realistic job preview informs applicants about all aspects of the job, including both its desirable and its undesirable facets. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Realistic job previews reduce turnover, but also reduce job acceptance rates. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Yield ratios can help indicate which recruitment sources are most effective at producing qualified job candidates. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Yield ratios should be calculated for each recruiting source. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An assessment centre is a place where people are evaluated. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If career development is to succeed, it must receive the complete support of top management. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A common approach to establishing a career development program is to integrate it with the existing HR functions and structures in the organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Some career development paths provide new assignments that increase skill areas and assignments in different functional areas. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Outplacement services help terminated employees find a job elsewhere. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A dual career path is for couples who are both working professionals in the same field. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Mentoring functions can be divided into two broad categories: (1) technical development and (2) career planning. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Mentoring is one important indicator of management support in career development. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Mentoring programs develop over time and on an informal basis. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]
